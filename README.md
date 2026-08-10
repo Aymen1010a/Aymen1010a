@@ -192,12 +192,10 @@ open_to:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aymen1010a&show_icons=true&hide_border=true&title_color=7C83F2&icon_color=B9F56B&text_color=E5E7EB&bg_color=14151f" />
+<img height="165" src="https://aymen-github-stats.vercel.app/api?username=Aymen1010a&show_icons=true&hide_border=true&title_color=7C83F2&icon_color=B9F56B&text_color=E5E7EB&bg_color=14151f" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aymen1010a&hide_border=true&background=14151f&stroke=7C83F2&ring=B9F56B&fire=B9F56B&currStreakLabel=B9F56B&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=8990B3" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aymen1010a&theme=react-dark&bg_color=14151f&color=7C83F2&line=B9F56B&point=E5E7EB&area=true&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aymen1010a&theme=algolia&no-frame=true&column=7&margin-w=8" />
 
 <img width="100%" src="https://raw.githubusercontent.com/Aymen1010a/Aymen1010a/output/github-contribution-grid-snake-dark.svg" />
 
