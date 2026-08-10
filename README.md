@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C83F2&center=true&vCenter=true&width=700&lines=%24+whoami;%E2%86%92+Data+Science+%26+AI+engineering+student+%C2%B7+EMSI+Rabat;%24+cat+focus.txt;%E2%86%92+data+pipelines+%2B+AI+systems+%2B+full-stack+delivery;%24+cat+open-to.txt;%E2%86%92+6-month+PFE+internship+%C2%B7+Feb%E2%80%93Jul+2027" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C83F2&center=true&vCenter=true&width=700&lines=%24+whoami;%E2%86%92+Data+Science+%26+AI+engineering+student+%C2%B7+EMSI+Rabat;%24+cat+focus.txt;%E2%86%92+data+pipelines+%2B+AI+systems+%2B+full-stack+delivery;%24+cat+open-to.txt;%E2%86%92+6-month+PFE+internship+%C2%B7+Feb%E2%80%93Jul+2027&v=2" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-malekmohamedaymenportfolio.vercel.app-14151f?style=for-the-badge&logo=vercel&logoColor=B9F56B&labelColor=14151f)](https://malekmohamedaymenportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymen_Malek-14151f?style=for-the-badge&logo=linkedin&logoColor=7C83F2&labelColor=14151f)](https://www.linkedin.com/in/aymen-malek/)
@@ -34,7 +34,7 @@ OPEN_TO  =  6-month PFE internship, Feb-Jul 2027
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,django,fastapi,react,ts,js,tailwind,mysql,postgres,mongodb,redis,docker,sklearn,tensorflow,opencv,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,react,ts,js,tailwind,mysql,postgres,mongodb,redis,docker,sklearn,tensorflow,opencv,git,github&theme=dark&v=2" />
 
 </div>
 
@@ -192,10 +192,10 @@ open_to:
 
 <div align="center">
 
-<img height="165" src="https://aymen-github-stats.vercel.app/api?username=Aymen1010a&show_icons=true&hide_border=true&title_color=7C83F2&icon_color=B9F56B&text_color=E5E7EB&bg_color=14151f" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aymen1010a&hide_border=true&background=14151f&stroke=7C83F2&ring=B9F56B&fire=B9F56B&currStreakLabel=B9F56B&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=8990B3" />
+<img height="165" src="https://aymen-github-stats.vercel.app/api?username=Aymen1010a&show_icons=true&hide_border=true&title_color=7C83F2&icon_color=B9F56B&text_color=E5E7EB&bg_color=14151f&v=2" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aymen1010a&hide_border=true&background=14151f&stroke=7C83F2&ring=B9F56B&fire=B9F56B&currStreakLabel=B9F56B&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=8990B3&v=2" />
 
-<img width="100%" src="https://aymen-activity-graph.vercel.app/graph?username=Aymen1010a&theme=react-dark&bg_color=14151f&color=7C83F2&line=B9F56B&point=E5E7EB&area=true&hide_border=true" />
+<img width="100%" src="https://aymen-activity-graph.vercel.app/graph?username=Aymen1010a&theme=react-dark&bg_color=14151f&color=7C83F2&line=B9F56B&point=E5E7EB&area=true&hide_border=true&v=2" />
 
 <img width="100%" src="https://raw.githubusercontent.com/Aymen1010a/Aymen1010a/output/github-contribution-grid-snake-dark.svg" />
 
@@ -211,4 +211,4 @@ open_to:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:1a1d35,100:14151f&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:1a1d35,100:14151f&height=100&section=footer&v=2" />
