@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:14151f,100:1a1d35&height=180&section=header&text=Mohamed%20Aymen%20Malek&fontSize=42&fontColor=B9F56B&fontAlignY=40&desc=Data%20Science%20%26%20AI%20Engineer&descAlignY=62&descColor=E5E7EB&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:14151f,100:1a1d35&height=180&section=header&text=Mohamed%20Aymen%20Malek&fontSize=42&fontColor=B9F56B&fontAlignY=40&desc=Data%20Science%20%26%20AI%20Engineer&descAlignY=62&descColor=E5E7EB&animation=fadeIn&v=2" />
 </div>
 
 <div align="center">
@@ -195,7 +195,7 @@ open_to:
 <img height="165" src="https://aymen-github-stats.vercel.app/api?username=Aymen1010a&show_icons=true&hide_border=true&title_color=7C83F2&icon_color=B9F56B&text_color=E5E7EB&bg_color=14151f" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aymen1010a&hide_border=true&background=14151f&stroke=7C83F2&ring=B9F56B&fire=B9F56B&currStreakLabel=B9F56B&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=8990B3" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aymen1010a&theme=react-dark&bg_color=14151f&color=7C83F2&line=B9F56B&point=E5E7EB&area=true&hide_border=true" />
+<img width="100%" src="https://aymen-activity-graph.vercel.app/graph?username=Aymen1010a&theme=react-dark&bg_color=14151f&color=7C83F2&line=B9F56B&point=E5E7EB&area=true&hide_border=true" />
 
 <img width="100%" src="https://raw.githubusercontent.com/Aymen1010a/Aymen1010a/output/github-contribution-grid-snake-dark.svg" />
 
